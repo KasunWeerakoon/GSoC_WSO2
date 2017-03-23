@@ -52,7 +52,6 @@ public class PerceptronClassifier {
                 }
             }
             if (globalError == 0) {
-                System.out.println("error minimized");
                 break;
             }
 
