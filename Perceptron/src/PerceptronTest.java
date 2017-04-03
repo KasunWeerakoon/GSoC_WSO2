@@ -12,7 +12,6 @@ import java.util.List;
 /**
  * Created by kasun on 3/23/17.
  */
-///media/kasun/New Volume/Projects/GSoC/Perceptron/src/Perceptron.java
 public class PerceptronTest {
 
     public static void main(String[] args) {
